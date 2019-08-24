@@ -54,15 +54,12 @@
 <div class="row">
   
   <div class="col-lg-4 col-md-4 col-sm-4 col-4">
-    <br>
-    <br>
-    <br>
-    <br>
+  
       <div class="img-fluid thumbnail">
-        <a href="img/ny.jpg" target="_blank">
-          <img src="img/ny.jpg" alt="Nature" style="width:100%">
+        <a href="img/makalu-barun-national-park.jpg" target="_blank">
+          <img src="img/makalu-barun-national-park.jpg" alt="Nature" style="width:100%">
           <div class="caption">
-            <p>Newyork</p>
+            <h1>Makalu Barun National Park</h1>
           </div>
         </a>
       </div>
@@ -70,7 +67,7 @@
   
 
 <div class="col-sm-4 col-md-4 col-lg-4" style="float: left;">
-  <h1>Makalu Barun National Park</h1>
+  
   <br>
 <p style="border:2px; font-size: 15px; border-style:solid; border-color:#1F890E; padding: 3em;">Established: 1992 B.S.
 Area, Location: 1500KM2, Solukhumbu, Sankhuwasabha. 
@@ -83,8 +80,8 @@ It is the only protected in the world with an elevation gain of more than 8,000 
 <button onclick="myFunction()" id="myBtn" class="btn btn-custom theme_background_color">Read more</button>
       </div>
 <div class="col-sm-4 col-md-4 col-lg-4">
-      <h1>Map description</h1>
-<img src="img/map.jpg" class="img-responsive" alt="Image">
+
+<img src="img/Makalu Barun National Park map.jpg" class="img-responsive" alt="Image">
 
 
     </div>
@@ -97,15 +94,12 @@ It is the only protected in the world with an elevation gain of more than 8,000 
 <div class="row">
   
   <div class="col-lg-4 col-md-4 col-sm-4 col-4">
-    <br>
-    <br>
-    <br>
-    <br>
+   
       <div class="img-fluid thumbnail">
-        <a href="img/ny.jpg" target="_blank">
-          <img src="img/ny.jpg" alt="Nature" style="width:100%">
+        <a href="img/Parsa National Park.jpg" target="_blank">
+          <img src="img/Parsa National Park.jpg" alt="Nature" style="width:100%">
           <div class="caption">
-            <p>Newyork</p>
+            <h1>Parsa National Park</h1>
           </div>
         </a>
       </div>
@@ -113,7 +107,7 @@ It is the only protected in the world with an elevation gain of more than 8,000 
   
 
 <div class="col-sm-4 col-md-4 col-lg-4" style="float: left;">
-  <h1>Parsa National Park</h1>
+  
   <br>
 <p style="border:2px; font-size: 15px; border-style:solid; border-color:#1F890E; padding: 3em;">Established: 1984 B.S.
 Area, Location: 128 KM2, Parsa, Makwanpur, Bara. 
@@ -126,8 +120,7 @@ Was establish as wildlife reserve in 1984 and declared National park in 2017
 <button onclick="myFunction()" id="myBtn" class="btn btn-custom theme_background_color">Read more</button>
       </div>
 <div class="col-sm-4 col-md-4 col-lg-4">
-      <h1>Map description</h1>
-<img src="img/map.jpg" class="img-responsive" alt="Image">
+<img src="img/Parsa National Park map.jpg" class="img-responsive" alt="Image">
 
 
     </div>
@@ -140,15 +133,12 @@ Was establish as wildlife reserve in 1984 and declared National park in 2017
 <div class="row">
   
   <div class="col-lg-4 col-md-4 col-sm-4 col-4">
-    <br>
-    <br>
-    <br>
-    <br>
+  
       <div class="img-fluid thumbnail">
-        <a href="img/ny.jpg" target="_blank">
-          <img src="img/ny.jpg" alt="Nature" style="width:100%">
+        <a href="img/Suklaphanta National Park.jpg" target="_blank">
+          <img src="img/Suklaphanta National Park.jpg" alt="Nature" style="width:100%">
           <div class="caption">
-            <p>Newyork</p>
+            <h1>Suklaphanta National Park</h1>
           </div>
         </a>
       </div>
@@ -156,7 +146,7 @@ Was establish as wildlife reserve in 1984 and declared National park in 2017
   
 
 <div class="col-sm-4 col-md-4 col-lg-4" style="float: left;">
-  <h1>Suklaphanta National Park</h1>
+  
   <br>
 <p style="border:2px; font-size: 15px; border-style:solid; border-color:#1F890E; padding: 3em;">Location: far western region terai.( Province No 7).<span id="dots">...</span><span id="more">Area: 305 km2 of open grassland, forests, riverbeds & tropical wetlands
 700 species of flora, 423 species birds, 46 species mammals, 128 species fish, 12 reptile and amphibian. 
@@ -166,8 +156,8 @@ Include Bengal tiger, swamp deer, Indian leopard, and one horned rhino.
 <button onclick="myFunction()" id="myBtn" class="btn btn-custom theme_background_color">Read more</button>
       </div>
 <div class="col-sm-4 col-md-4 col-lg-4">
-      <h1>Map description</h1>
-<img src="img/map.jpg" class="img-responsive" alt="Image">
+
+<img src="img/Suklaphanta National Park map.jpg" class="img-responsive" alt="Image">
 
 
     </div>
@@ -180,15 +170,12 @@ Include Bengal tiger, swamp deer, Indian leopard, and one horned rhino.
 <div class="row">
   
   <div class="col-lg-4 col-md-4 col-sm-4 col-4">
-    <br>
-    <br>
-    <br>
-    <br>
+    
       <div class="img-fluid thumbnail">
-        <a href="img/ny.jpg" target="_blank">
-          <img src="img/ny.jpg" alt="Nature" style="width:100%">
+        <a href="img/Sagarmatha National park.jpg" target="_blank">
+          <img src="img/Sagarmatha National park.jpg" alt="Nature" style="width:100%">
           <div class="caption">
-            <p>Newyork</p>
+            <h1>Sagarmatha National park</h1>
           </div>
         </a>
       </div>
@@ -196,7 +183,7 @@ Include Bengal tiger, swamp deer, Indian leopard, and one horned rhino.
   
 
 <div class="col-sm-4 col-md-4 col-lg-4" style="float: left;">
-  <h1>4.  Sagarmatha National park:</h1>
+  
   <br>
 <p style="border:2px; font-size: 15px; border-style:solid; border-color:#1F890E; padding: 3em;">Location: Himalayas of eastern Nepal(top hill of Namche bazar) 
 Area: 1158 Km2 Eastern Nepal. 118 species of <span id="dots">...</span><span id="more">bird, himalayan monal, red-billed, musk deer, snow leopard, Hi, malayan black beer, wolves, red panda. Martens. First national park at 1979.
@@ -207,8 +194,8 @@ Blue pines, bamboo& rhododendron
 <button onclick="myFunction()" id="myBtn" class="btn btn-custom theme_background_color">Read more</button>
       </div>
 <div class="col-sm-4 col-md-4 col-lg-4">
-      <h1>Map description</h1>
-<img src="img/map.jpg" class="img-responsive" alt="Image">
+
+<img src="img/Sagarmatha National park map.gif" class="img-responsive" alt="Image">
 
 
     </div>
@@ -221,15 +208,12 @@ Blue pines, bamboo& rhododendron
 <div class="row">
   
   <div class="col-lg-4 col-md-4 col-sm-4 col-4">
-    <br>
-    <br>
-    <br>
-    <br>
+    
       <div class="img-fluid thumbnail">
-        <a href="img/ny.jpg" target="_blank">
-          <img src="img/ny.jpg" alt="Nature" style="width:100%">
+        <a href="img/Rara National Park.jpg" target="_blank">
+          <img src="img/Rara National Park.jpg" alt="Nature" style="width:100%">
           <div class="caption">
-            <p>Newyork</p>
+             <h1>Rara National Park</h1>
           </div>
         </a>
       </div>
@@ -237,7 +221,7 @@ Blue pines, bamboo& rhododendron
   
 
 <div class="col-sm-4 col-md-4 col-lg-4" style="float: left;">
-  <h1>Rara national park</h1>
+ 
   <br>
 <p style="border:2px; font-size: 15px; border-style:solid; border-color:#1F890E; padding: 3em;">Area: 106KM2 
 Location: Humla, Jumla.<span id="dots">...</span><span id="more">
@@ -251,8 +235,7 @@ Include: Rhododendron, fir, blur pinr, black juniper , Himalayan cypress,  brown
 <button onclick="myFunction()" id="myBtn" class="btn btn-custom theme_background_color">Read more</button>
       </div>
 <div class="col-sm-4 col-md-4 col-lg-4">
-      <h1>Map description</h1>
-<img src="img/map.jpg" class="img-responsive" alt="Image">
+<img src="img/rara_national_park_map.gif" class="img-responsive" alt="Image">
 
 
     </div>
@@ -265,15 +248,12 @@ Include: Rhododendron, fir, blur pinr, black juniper , Himalayan cypress,  brown
 <div class="row">
   
   <div class="col-lg-4 col-md-4 col-sm-4 col-4">
-    <br>
-    <br>
-    <br>
-    <br>
+    
       <div class="img-fluid thumbnail">
-        <a href="img/ny.jpg" target="_blank">
-          <img src="img/ny.jpg" alt="Nature" style="width:100%">
+        <a href="img/Shey-Phoksundo-National-Park.jpg" target="_blank">
+          <img src="img/Shey-Phoksundo-National-Park.jpg" alt="Nature" style="width:100%">
           <div class="caption">
-            <p>Newyork</p>
+            <h1>Shey Phuksundo National Park</h1>
           </div>
         </a>
       </div>
@@ -281,7 +261,7 @@ Include: Rhododendron, fir, blur pinr, black juniper , Himalayan cypress,  brown
   
 
 <div class="col-sm-4 col-md-4 col-lg-4" style="float: left;">
-  <h1>Shey Phuksundo National Park</h1>
+  
   <br>
 <p style="border:2px; font-size: 15px; border-style:solid; border-color:#1F890E; padding: 3em;">            Area: 3555KM2
             Established: 1984 BS
@@ -295,8 +275,8 @@ Endanger: snow leopard, grey  worlf, blue sheep, musk deer.
 <button onclick="myFunction()" id="myBtn" class="btn btn-custom theme_background_color">Read more</button>
       </div>
 <div class="col-sm-4 col-md-4 col-lg-4">
-      <h1>Map description</h1>
-<img src="img/map.jpg" class="img-responsive" alt="Image">
+
+<img src="img/Shey Phuksundo National Park map.png" class="img-responsive" alt="Image">
 
 
     </div>
@@ -309,23 +289,20 @@ Endanger: snow leopard, grey  worlf, blue sheep, musk deer.
 <div class="row">
   
   <div class="col-lg-4 col-md-4 col-sm-4 col-4">
-    <br>
-    <br>
-    <br>
-    <br>
+  
       <div class="img-fluid thumbnail">
-        <a href="img/ny.jpg" target="_blank">
-          <img src="img/ny.jpg" alt="Nature" style="width:100%">
+        <a href="img/shivapuri nagarjun national park.jpg" target="_blank">
+          <img src="img/shivapuri nagarjun national park.jpg" alt="Nature" style="width:100%">
           <div class="caption">
-            <p>Newyork</p>
-          </div>
+  <h1>Shivapuri nagarhun national park</h1>
+            </div>
         </a>
       </div>
     </div>
   
 
 <div class="col-sm-4 col-md-4 col-lg-4" style="float: left;">
-  <h1>Shivapuri nagarhun national park:</h1>
+
   <br>
 <p style="border:2px; font-size: 15px; border-style:solid; border-color:#1F890E; padding: 3em;">Established: 2002 BS
 Area: 159KM2(8963 ft)
@@ -338,8 +315,8 @@ Include:
 <button onclick="myFunction()" id="myBtn" class="btn btn-custom theme_background_color">Read more</button>
       </div>
 <div class="col-sm-4 col-md-4 col-lg-4">
-      <h1>Map description</h1>
-<img src="img/map.jpg" class="img-responsive" alt="Image">
+
+<img src="img/shivapuri-nagarjung-national-park-map.jpg" class="img-responsive" alt="Image">
 
 
     </div>
@@ -351,15 +328,12 @@ Include:
 <div class="row">
   
   <div class="col-lg-4 col-md-4 col-sm-4 col-4">
-    <br>
-    <br>
-    <br>
-    <br>
+   
       <div class="img-fluid thumbnail">
-        <a href="img/ny.jpg" target="_blank">
-          <img src="img/ny.jpg" alt="Nature" style="width:100%">
+        <a href="img/banke national park.jpg" target="_blank">
+          <img src="img/banke national park.jpg" alt="Nature" style="width:100%">
           <div class="caption">
-            <p>Newyork</p>
+            <h1>Banke National Park </h1>
           </div>
         </a>
       </div>
@@ -367,9 +341,11 @@ Include:
   
 
 <div class="col-sm-4 col-md-4 col-lg-4" style="float: left;">
-  <h1>Banke National Park </h1>
+  
   <br>
-<p style="border:2px; font-size: 15px; border-style:solid; border-color:#1F890E; padding: 3em;">Hello H<span id="dots">...</span><span id="more">Area: 550Km2 
+<p style="border:2px; font-size: 15px; border-style:solid; border-color:#1F890E; padding: 3em;">Hello H<span id="dots">...</span><span id="more">
+need to maintain
+  Area: 550Km2 
 Location: mid-western region of Nepal Banke, salyan, Dang
 Neighbor to bardiya national park and represent tiger conservation unit(TUI) bardia-Banke.
 113 species tress, 107 species herbal.
@@ -378,8 +354,7 @@ Sal, anlewood, semecarpus anacardium, khair.
 <button onclick="myFunction()" id="myBtn" class="btn btn-custom theme_background_color">Read more</button>
       </div>
 <div class="col-sm-4 col-md-4 col-lg-4">
-      <h1>Map description</h1>
-<img src="img/map.jpg" class="img-responsive" alt="Image">
+<img src="img/banke national park map.jpg" class="img-responsive" alt="Image">
 
 
     </div>
@@ -392,15 +367,12 @@ Sal, anlewood, semecarpus anacardium, khair.
 <div class="row">
   
   <div class="col-lg-4 col-md-4 col-sm-4 col-4">
-    <br>
-    <br>
-    <br>
-    <br>
+    
       <div class="img-fluid thumbnail">
-        <a href="img/ny.jpg" target="_blank">
-          <img src="img/ny.jpg" alt="Nature" style="width:100%">
+        <a href="img/bardiya national park.jpg" target="_blank">
+          <img src="img/bardiya national park.jpg" alt="Nature" style="width:100%">
           <div class="caption">
-            <p>Newyork</p>
+           <h1>Bardiya National Park</h1>
           </div>
         </a>
       </div>
@@ -408,7 +380,7 @@ Sal, anlewood, semecarpus anacardium, khair.
   
 
 <div class="col-sm-4 col-md-4 col-lg-4" style="float: left;">
-  <h1>Bardiya National Park</h1>
+  
   <br>
 <p style="border:2px; font-size: 15px; border-style:solid; border-color:#1F890E; padding: 3em;">hh
 <span id="dots">...</span><span id="more">Bardiya national park was established on 1988 B.S. It is the largest national park of Terai which covers the area of 968km2 . In this area there are 3 species of mammals, 23 species retiles and amphibians, 839 species of flora. In mammal there are elephant, Bengal tiger, rhinocerous, swam[p deer, etc. The special reptiles of this national park is mugger crocodiles. The vegetation here is balanced by the mixture of grasslands, savannah and riverine forest. The river flowing from this region is karnali river and babai river.
@@ -416,8 +388,7 @@ Sal, anlewood, semecarpus anacardium, khair.
 <button onclick="myFunction()" id="myBtn" class="btn btn-custom theme_background_color">Read more</button>
       </div>
 <div class="col-sm-4 col-md-4 col-lg-4">
-      <h1>Map description</h1>
-<img src="img/map.jpg" class="img-responsive" alt="Image">
+<img src="img/bardiya_national_park_map.jpg" class="img-responsive" alt="Image">
 
 
     </div>
@@ -430,15 +401,12 @@ Sal, anlewood, semecarpus anacardium, khair.
 <div class="row">
   
   <div class="col-lg-4 col-md-4 col-sm-4 col-4">
-    <br>
-    <br>
-    <br>
-    <br>
+    
       <div class="img-fluid thumbnail">
-        <a href="img/ny.jpg" target="_blank">
-          <img src="img/ny.jpg" alt="Nature" style="width:100%">
+        <a href="img/Chitwan-National-Park.jpg" target="_blank">
+          <img src="img/Chitwan-National-Park.jpg" alt="Nature" style="width:100%">
           <div class="caption">
-            <p>Newyork</p>
+             <h1>Chitwan National Park</h1>
           </div>
         </a>
       </div>
@@ -446,7 +414,7 @@ Sal, anlewood, semecarpus anacardium, khair.
   
 
 <div class="col-sm-4 col-md-4 col-lg-4" style="float: left;">
-  <h1>Chitwan National Park</h1>
+
   <br>
 <p style="border:2px; font-size: 15px; border-style:solid; border-color:#1F890E; padding: 3em;">hhh
 <span id="dots">...</span><span id="more">It is the first ever national park of Nepal which was established on 1973 B.S. It is the one and only national park that has been included in the world heritage site on 1984. It covers the area of 952.63 km2. It is located in subtropical inner Terai lowlands. There are 700 wildlife species, 543 species of birds, 68 species of mammals, 17 species of snakes, stored tortoise, monitor lizards etc. The rare animals that are found in this national park are one-horned rhinos, and Bengal tigers.
@@ -454,7 +422,7 @@ Sal, anlewood, semecarpus anacardium, khair.
 <button onclick="myFunction()" id="myBtn" class="btn btn-custom theme_background_color">Read more</button>
       </div>
 <div class="col-sm-4 col-md-4 col-lg-4">
-      <h1>Map description</h1>
+
 <img src="img/map.jpg" class="img-responsive" alt="Image">
 
 
@@ -473,10 +441,10 @@ Sal, anlewood, semecarpus anacardium, khair.
     <br>
     <br>
       <div class="img-fluid thumbnail">
-        <a href="img/ny.jpg" target="_blank">
-          <img src="img/ny.jpg" alt="Nature" style="width:100%">
+        <a href="img/Khaptad_National_Park.gif" target="_blank">
+          <img src="img/Khaptad_National_Park.gif" alt="Nature" style="width:100%">
           <div class="caption">
-            <p>Newyork</p>
+            <h1>Khaptad National Park</h1>
           </div>
         </a>
       </div>
@@ -484,7 +452,7 @@ Sal, anlewood, semecarpus anacardium, khair.
   
 
 <div class="col-sm-4 col-md-4 col-lg-4" style="float: left;">
-  <h1>Khaptad National Park</h1>
+  
   <br>
 <p style="border:2px; font-size: 15px; border-style:solid; border-color:#1F890E; padding: 3em;">hh 
 <span id="dots">...</span><span id="more">This national park is located at an elevation from 1400 meters to 3300 meters and established on 1984 B.S. In this region there are 567 species of flora, 23 species of mammals, 287 species of birds and 23 species of amphibians and reptiles. The vegetation found here are chir pin, rhododendron, oak, Himalayan fir, hemlock. The wildlife found here are  leopard, wild dog, musk deer, Himalayan black beer. It covers the area of Bajhang, Bajura, Achham and Doti. 
@@ -492,8 +460,8 @@ Sal, anlewood, semecarpus anacardium, khair.
 <button onclick="myFunction()" id="myBtn" class="btn btn-custom theme_background_color">Read more</button>
       </div>
 <div class="col-sm-4 col-md-4 col-lg-4">
-      <h1>Map description</h1>
-<img src="img/map.jpg" class="img-responsive" alt="Image">
+
+<img src="img/Khaptadnational_park_map.gif" class="img-responsive" alt="Image">
 
 
     </div>
@@ -506,15 +474,12 @@ Sal, anlewood, semecarpus anacardium, khair.
 <div class="row">
   
   <div class="col-lg-4 col-md-4 col-sm-4 col-4">
-    <br>
-    <br>
-    <br>
-    <br>
+   
       <div class="img-fluid thumbnail">
-        <a href="img/ny.jpg" target="_blank">
-          <img src="img/ny.jpg" alt="Nature" style="width:100%">
+        <a href="img/langtang national park.jpg" target="_blank">
+          <img src="img/langtang national park.jpg" alt="Nature" style="width:100%">
           <div class="caption">
-            <p>Newyork</p>
+            <h1>Langtang National Park</h1>
           </div>
         </a>
       </div>
@@ -522,7 +487,7 @@ Sal, anlewood, semecarpus anacardium, khair.
   
 
 <div class="col-sm-4 col-md-4 col-lg-4" style="float: left;">
-  <h1>Langtang National Park</h1>
+  
   <br>
 <p style="border:2px; font-size: 15px; border-style:solid; border-color:#1F890E; padding: 3em;">hh
 <span id="dots">...</span><span id="more">It is the first Himalayan national park which was establish on 1976 B.S. It is located in Gosaikunda lake and covers the area of 1710 km2. It covers the area of Nuwakot, Rasuwa and Sindulpalchowk. In this national park there are 14 types of vegetation and 18 eco system types. This region is very famous for musk deer, and red panda. It is very famous for trekking destination and bungee jump. For the security purpose there is made buffer zone area also.
@@ -531,7 +496,7 @@ Sal, anlewood, semecarpus anacardium, khair.
       </div>
 <div class="col-sm-4 col-md-4 col-lg-4">
       <h1>Map description</h1>
-<img src="img/map.jpg" class="img-responsive" alt="Image">
+<img src="img/langtang national park map.jpg" class="img-responsive" alt="Image">
 
 
     </div>
