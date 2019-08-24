@@ -1,0 +1,208 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: verdana;
+}
+html{
+  scroll-behavior: smooth;
+}
+.wrapper
+{
+    width:100%;
+    height:100%;
+    position:relative;
+    
+}
+#more {display: none;}
+
+.main-heading
+{
+        height:750px;color: #fff; background-image: url(../img/img1.jpg); background-size:contain;
+}
+.picture
+{
+   background: url(../img/img1.jpg) center center no-repeat;
+  background-size:cover;
+  background-attachment: fixed;
+  color: #cfcfcf;
+  height: 750px;      
+}
+.overlay{
+	background: -moz-linear-gradient(top,  rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.73) 17%, rgba(0,0,0,0.66) 35%, rgba(0,0,0,0.55) 62%, rgba(0,0,0,0.4) 100%); 
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0.8)), color-stop(17%,rgba(0,0,0,0.73)), color-stop(35%,rgba(0,0,0,0.66)), color-stop(62%,rgba(0,0,0,0.55)), color-stop(100%,rgba(0,0,0,0.4))); 
+	background: -webkit-linear-gradient(top,  rgba(0,0,0,0.8) 0%,rgba(0,0,0,0.73) 17%,rgba(0,0,0,0.66) 35%,rgba(0,0,0,0.55) 62%,rgba(0,0,0,0.4) 100%); 
+	background: -o-linear-gradient(top,  rgba(0,0,0,0.8) 0%,rgba(0,0,0,0.73) 17%,rgba(0,0,0,0.66) 35%,rgba(0,0,0,0.55) 62%,rgba(0,0,0,0.4) 100%); 
+	background: -ms-linear-gradient(top,  rgba(0,0,0,0.8) 0%,rgba(0,0,0,0.73) 17%,rgba(0,0,0,0.66) 35%,rgba(0,0,0,0.55) 62%,rgba(0,0,0,0.4) 100%); 
+	background: linear-gradient(to bottom,  rgba(0,0,0,0.8) 0%,rgba(0,0,0,0.73) 17%,rgba(0,0,0,0.66) 35%,rgba(0,0,0,0.55) 62%,rgba(0,0,0,0.4) 100%); 
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc000000', endColorstr='#66000000',GradientType=0 ); 
+	//background-attachment: fixed;
+        height:auto;
+        height:100%;
+        position:relative;
+}
+
+header.masthead {
+  text-align: center;
+  color: white;
+}
+
+header.masthead .intro-text {
+  padding-top: 150px;
+  padding-bottom: 100px;
+}
+
+header.masthead .intro-text .intro-lead-in {
+  font-size: 24px;
+  line-height: 22px;
+  margin-bottom: 25px;
+  font-family: 'Droid Serif', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+}
+
+header.masthead .intro-text .intro-heading {
+  font-size: 50px;
+  font-weight: 700;
+  line-height: 50px;
+  margin-bottom: 25px;
+  font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+}
+
+@media (min-width: 768px) {
+  header.masthead .intro-text {
+    padding-top: 200px;
+    padding-bottom: 200px;
+  }
+  header.masthead .intro-text .intro-lead-in {
+    font-size: 40px;
+    font-style: italic;
+    line-height: 40px;
+    margin-bottom: 25px;
+    font-family: 'Droid Serif', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  }
+  header.masthead .intro-text .intro-heading {
+    font-size: 75px;
+    font-weight: 700;
+    line-height: 75px;
+    margin-bottom: 50px;
+    font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  }
+}
+nav{
+	width: 100%;
+	height: 70px;
+	background-color: #1F890E;
+    line-height: 70px;
+}
+nav ul{
+	float: right;
+	margin-right: 30px;
+}
+nav ul li{
+	list-style-type: none;
+	display: inline-block;
+	transition: 0.8s all;
+}
+
+nav ul li:hover{
+	background-color: #26EF17;
+}
+nav ul li a{
+	text-decoration: none;
+	color: white;
+	padding: 30px;
+}
+
+
+.site-footer
+{
+    background:#1F890E;
+    font-size:0.93em;
+}
+.site-footer >.container
+{
+    padding:30px 0px;
+}
+
+.site-footer small
+{ 
+    display: inline-block;
+}
+
+.footer-links,.site-footer small
+{ 
+    margin: 0 0 .75em;
+}
+
+.site-footer small,.footer-links a
+{
+  color: white;
+  font-weight: 300;
+  font-size:0.93em;
+}
+
+.footer-links a:hover
+{ 
+    color: #fa5454;
+}
+
+.footer-links a:first-child 
+{
+    padding-right: .4em;
+}
+
+/*----------------SOCIAL
+
+-------------------------------------------------------*/
+
+.social li {
+  display: inline-block;
+  padding-right: .5em;
+  text-align: center;
+}
+
+.social li:last-child { padding-right: 0; }
+
+.social li a {
+  display: block;
+  width: 45px;
+  height: 45px;
+  line-height: 45px;
+  color: #1F890E;
+  border-radius: 50%;
+  position: relative;
+  transition: all .8s ease;
+  font-size: 1.3em;
+  background: #D6D6D6;
+}
+
+.social li a:hover {
+
+  background:#07E9FD;
+}
+.main-heading-title {
+	font-weight: 900;
+	color: #ffffff;
+	text-transform: uppercase;
+	font-size:3.5em;
+	text-shadow: rgba(0,0,0,0.498039) 2px 2px 2px;
+	letter-spacing: 0.02em;
+	
+}
+.main-heading-title span {
+	margin-left: 6px;
+}
+.main-heading-text {
+	font-size: 16px;
+	color: #ffffff;
+	margin-bottom: 20px;
+}
+
+.contact-form{
+    background: rgba(0,0,0, .6);
+    color: white;
+    margin-top: 100px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px 3px grey;
+  }
+  hr{
+    background: white;
+  }
